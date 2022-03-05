@@ -22,7 +22,7 @@ The four simulation videos are divided into following:
  
 * [kinematic_default](https://youtu.be/nhyxQuxYXv0)
 * [Dynamic_Force](https://youtu.be/kdCy4Qo6PGs)
-* [Dynamic_Gravity] (https://youtu.be/cag580m3Yek)
+* [Dynamic_Gravity](https://youtu.be/cag580m3Yek)
 * [Dynamic_Force+Gravity](https://youtu.be/vFfXcmw6Iw0)
 
 
