@@ -20,10 +20,10 @@ This folder contains all the parts and assmeblies of the manipulator, which are 
 ## Simulation_Video
 The four simulation videos are divided into following:
  
-* [kinematic(default)](https://github.com/chetanchandc/4_DOF_Manipulator/blob/main/Simulation_Videos/Kinematic_Default.mp4)
-* [Dynamic(Force)](https://www.youtube.com/watch?v=WfgFxgPY99w)
-* [Dynamic(Gravity)] (https://www.youtube.com/watch?v=WfgFxgPY99w)
-* [Dynamic(Force+Gravity)](https://www.youtube.com/watch?v=WfgFxgPY99w)
+* [kinematic_default](https://youtu.be/nhyxQuxYXv0)
+* [Dynamic_Force](https://youtu.be/kdCy4Qo6PGs)
+* [Dynamic_Gravity] (https://youtu.be/cag580m3Yek)
+* [Dynamic_Force+Gravity](https://youtu.be/vFfXcmw6Iw0)
 
 
 ## Developers
