@@ -6,10 +6,9 @@ This is a repository for the project named 4 DOF Axis Mechanical grab Manipulato
 The 4 degree Of Freedom Axis Mechanical grab Manipulator is designed using **Creo software** with the reference of [TA0262 ARDUINO ROBOT ARM 4DOF MECHANICAL CLAW KIT](https://github.com/chetanchandc/4_DOF_Manipulator/blob/main/Instruction%20Manual.pdf) and  [spur](https://github.com/chetanchandc/4_DOF_Manipulator/blob/main/Approx_method_draw_involute_tooth_rev2.pdf)
 
 <p align="center" width="100%">
-    <img width="33%" src="https://github.com/chetanchandc/4_DOF_Manipulator/blob/main/Design_Views/Default_Orientation.png">
+    <img width="66%" src="https://github.com/chetanchandc/4_DOF_Manipulator/blob/main/Design_Views/Default_Orientation.png">
 </p>
 
-<img src="" width="400" height="300" />
 
 
 ## Software requirements
