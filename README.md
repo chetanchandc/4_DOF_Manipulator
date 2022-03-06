@@ -55,7 +55,7 @@ The first thing to do, after having cloned the repository :
 * Run the analysis(each).
 * Verify the graphs using measure tool.
 
-Go through the [Simualtion_Videos](https://github.com/chetanchandc/4_DOF_Manipulator/tree/main/Simulation_Videos) for clear understanding.
+Go through the [Simualtion_Videos](https://github.com/chetanchandc/4_DOF_Manipulator/blob/main/README.md#simulation_videos) for clear understanding.
 
 
 ## Developers
