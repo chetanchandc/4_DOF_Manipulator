@@ -16,7 +16,7 @@ In this section, we will explain the repository's content
 
 
 ## Design_Views
-The representation of the default orientation is given below:
+The representation of the **default orientation** is given below:
 <p align="center" width="100%">
     <img width="66%" src="https://github.com/chetanchandc/4_DOF_Manipulator/blob/main/Design_Views/Default_Orientation.png">
 </p>
@@ -24,11 +24,11 @@ The representation of the default orientation is given below:
 Whereas, Right_View, Left_View, Front_View, Back_View, Top_View, Bottom_View ´s are availble here [Design_Views](https://github.com/chetanchandc/4_DOF_Manipulator/tree/main/Design_Views)
 
 ## Measures_Graphs
-This folder contains all the possible graphical represenations which compares Kinematic(Default), Dynamic(Force), Dynamic(Gravity), and Dynamic(Gravity+Force) with respect to angles and positions repsectively.
+This folder contains all the possible **graphical represenations** which compares Kinematic(Default), Dynamic(Force), Dynamic(Gravity), and Dynamic(Gravity+Force) with respect to angles and positions repsectively.
 
 The representation of the Dynamic(Gravity+Force) with respect to angles and positions is given below:
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/chetanchandc/4_DOF_Manipulator/blob/main/Measures_Graphs/Dyn_F_G_Positions_Angles.jpg">
+    <img width="35%" src="https://github.com/chetanchandc/4_DOF_Manipulator/blob/main/Measures_Graphs/Dyn_F_G_Positions_Angles.jpg">
 </p>
 
 Whereas, the remaining possible graphical represenations are availble here [Measures_Graphs](https://github.com/chetanchandc/4_DOF_Manipulator/tree/main/Measures_Graphs)
