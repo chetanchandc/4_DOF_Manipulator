@@ -29,7 +29,7 @@ This folder contains all the possible **graphical represenations** which compare
 
 The representation of the Dynamic(Gravity+Force) with respect to angles and positions is given below:
 <p align="center" width="100%">
-    <img width="35%" src="https://github.com/chetanchandc/4_DOF_Manipulator/blob/main/Measures_Graphs/Dyn_F_G_Positions_Angles.jpg">
+    <img width="40%" src="https://github.com/chetanchandc/4_DOF_Manipulator/blob/main/Measures_Graphs/Dyn_F_G_Positions_Angles.jpg">
 </p>
 
 Whereas, the remaining possible graphical represenations are availble here [Measures_Graphs](https://github.com/chetanchandc/4_DOF_Manipulator/tree/main/Measures_Graphs)
