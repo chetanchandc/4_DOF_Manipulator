@@ -6,6 +6,7 @@ This is a repository for the project named 4 DOF Axis Mechanical grab Manipulato
 
 * Creo Parametric 5.0.4.0
 
+
 ## Design and References
 The 4 degree Of Freedom Axis Mechanical grab Manipulator is designed using **Creo software** with the reference of [TA0262 ARDUINO ROBOT ARM 4DOF MECHANICAL CLAW KIT](https://github.com/chetanchandc/4_DOF_Manipulator/blob/main/Instruction%20Manual.pdf) and  [Drawing an Approximate Representation of an Involute
 Spur Gear Tooth](https://github.com/chetanchandc/4_DOF_Manipulator/blob/main/Approx_method_draw_involute_tooth_rev2.pdf)
@@ -33,7 +34,6 @@ The representation of the Dynamic(Gravity+Force) with respect to angles and posi
 
 Whereas, the remaining possible graphical represenations are availble here [Measures_Graphs](https://github.com/chetanchandc/4_DOF_Manipulator/tree/main/Measures_Graphs)
 
-
 ## Parts_Assmeble
 This **main folder** [Parts_Assmeble](https://github.com/chetanchandc/4_DOF_Manipulator/tree/main/Parts_Assmeble) contains all the parts and assmeblies of the manipulator which are designed using Creo Software. These are saved as an extension of .prt and .asm respectively.
 
@@ -44,6 +44,18 @@ This folder contains the video tutorials on how the analysis of the four possibl
 * [Dynamic_Force](https://youtu.be/kdCy4Qo6PGs)
 * [Dynamic_Gravity](https://youtu.be/cag580m3Yek)
 * [Dynamic_Force+Gravity](https://youtu.be/vFfXcmw6Iw0)
+
+
+## Installation
+
+The first thing to do, after having cloned the repository :
+
+* Open the file named **robot_final_group5.asm.21** in the Creo.
+* Go to Applications > Mechanism > Analysis.
+* Run the analysis(each).
+* Verify the graphs using measure tool.
+
+Go through the [Simualtion_Videos](https://github.com/chetanchandc/4_DOF_Manipulator/tree/main/Simulation_Videos) for clear understanding.
 
 
 ## Developers
