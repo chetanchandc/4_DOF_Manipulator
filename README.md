@@ -38,7 +38,7 @@ Whereas, the remaining possible graphical represenations are availble here [Meas
 This **main folder** [Parts_Assmeble](https://github.com/chetanchandc/4_DOF_Manipulator/tree/main/Parts_Assmeble) contains all the parts and assmeblies of the manipulator which are designed using Creo Software. These are saved as an extension of .prt and .asm respectively.
 
 ## Simulation_Videos
-This folder contains the video tutorial on how to analysis the four possiblities. The four simulation videos are divided into following:
+This folder contains the video tutorials on how the analysis of the four possiblities work. The four simulation videos are divided into following:
  
 * [kinematic_default](https://youtu.be/nhyxQuxYXv0)
 * [Dynamic_Force](https://youtu.be/kdCy4Qo6PGs)
